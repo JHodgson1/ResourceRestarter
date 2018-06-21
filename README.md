@@ -1,7 +1,7 @@
 # Resource Restarter
 This is a resource for FiveM that restarts a resource after a specifed amount of time.
 
-__Within the download:__
+__In the resource:__
 - sv_restarter.lua
 - \_\_resource.lua
 
